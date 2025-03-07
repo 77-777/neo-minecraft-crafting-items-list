@@ -29,6 +29,7 @@
 * Hoe
 * Shears
 * Fishing Rod
+* Bucket
 
 ## Armor & Weapons
 
@@ -41,31 +42,55 @@
 ## Storage
 
 * Chest
-* Barrel
-* Bundle
-* Shulker Box
+* **Barrel**
+* **Bundle**
+* **Shulker Box**
 
 ## Manufacturing
 
 * **Blast Furnace**
-* Smithy
-* 
+* Smithy/Anvil
+* Brewing Stand
+* Enchanting Table
+
+* **Smithing Table**
+* **Stonecutter**
+* **Grindstone**
+
+* **Cartography Table**
+* **Composter**
+* **Smoker**
+* **Fletching Table**
+
+* **Lectern**
 
 ## Important Items
 
 * Compass
 * Watch
 * Paper/Book/Book & Quill
+* Map
+* **Scaffolding**
+
+## Other Blocks
+
+* Sponge
+* Concrete/Powder
 
 ## Transport
 
 * Horses
-* Leash
+* Leash/Lead
 
-## Farming
+## Farming / Structure
+
+* **Wall**
+* Fence
+* Seed farming
 
 ## Tier Upgrades
 
+* Leather**
 * Wood
 * Stone
 * Iron
